@@ -1,8 +1,9 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <link rel="stylesheet" href="dist/reveal.css" />
-    <link rel="stylesheet" href="dist/theme/white.css" />
+   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@4.5.0/dist/reveal.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@4.5.0/dist/theme/white.css">
+<script src="https://cdn.jsdelivr.net/npm/reveal.js@4.5.0/dist/reveal.js"></script>
   </head>
   <body>
     <div class="reveal">
@@ -11,7 +12,6 @@
         <section>Slide 2</section>
       </div>
     </div>
-    <script src="dist/reveal.js"></script>
     <script>
       Reveal.initialize();
     </script>
