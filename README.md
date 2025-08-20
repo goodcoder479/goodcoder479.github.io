@@ -20,9 +20,10 @@
         </section>
         </textarea>
       </div>
+      
     </div>
-    <script>
+  <!--  <script>
       Reveal.initialize();
-    </script>
+    </script> -->
   </body>
 </html>
