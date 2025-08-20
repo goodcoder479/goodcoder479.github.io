@@ -8,22 +8,22 @@
     <div class="reveal">
       <div class="slides">
         <section>
-          <textarea>
           ## Given B happened probability that A happened. 
           \[P(A|B)=\frac{P(B|A)P(A)}{P(B)}
-
+        </section>
+          <section
           ## Next slide
           ```
           def add(a,b):
            return a+b
           ```
         </section>
-        </textarea>
+       
       </div>
       
     </div>
-  <!--  <script>
+  <script>
       Reveal.initialize();
-    </script> -->
+    </script>
   </body>
 </html>
