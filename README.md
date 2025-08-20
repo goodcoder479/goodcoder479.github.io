@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
   <head>
    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@4.5.0/dist/reveal.css">
@@ -8,8 +7,15 @@
   <body>
     <div class="reveal">
       <div class="slides">
-        <section>Slide 1</section>
-        <section>Slide 2</section>
+        <section>Slide 1<br>
+          \[P(A|B)=\frac{P(B|A)P(A)}{P(B)}\]
+        </section>
+        <section>Slide 2<br>
+          ```
+          def add(a,b):
+           return a+b
+          ```
+        </section>
       </div>
     </div>
     <script>
