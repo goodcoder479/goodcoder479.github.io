@@ -1,4 +1,3 @@
-# goodcoder479.github.io
 <!DOCTYPE html>
 <html>
   <head>
@@ -18,4 +17,3 @@
     </script>
   </body>
 </html>
-Copy to clipboardErrorCopied
