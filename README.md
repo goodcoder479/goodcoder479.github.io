@@ -7,15 +7,18 @@
   <body>
     <div class="reveal">
       <div class="slides">
-        <section>Slide 1<br>
-          \[P(A|B)=\frac{P(B|A)P(A)}{P(B)}\]
-        </section>
-        <section>Slide 2<br>
+        <section>
+          <textarea>
+          ## Given B happened probability that A happened. 
+          \[P(A|B)=\frac{P(B|A)P(A)}{P(B)}
+
+          ## Next slide
           ```
           def add(a,b):
            return a+b
           ```
         </section>
+        </textarea>
       </div>
     </div>
     <script>
